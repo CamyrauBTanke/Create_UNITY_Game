@@ -1,0 +1,18 @@
+{
+    "nodes": [
+        {
+            "phrases": [
+                {
+                    "header": "John",
+                    "text": "Lorem lorem lorem lorem"
+                }
+            ],
+            "answers": [
+                {
+                    "text": "Answer yoooo",
+                    "next": -1
+                }
+            ]
+        }
+    ]
+}
